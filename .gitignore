@@ -14,3 +14,5 @@ gradle.properties
 gradle.props
 local.properties
 .gradletasknamecache
+
+bintray_local_properties.gradle

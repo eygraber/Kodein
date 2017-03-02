@@ -1,0 +1,4 @@
+if(!project.hasProperty('BINTRAY_PACKAGE')) project.ext.BINTRAY_PACKAGE = 'kodein-erased'
+if(!project.hasProperty('DESCRIPTION')) project.ext.DESCRIPTION = 'Kotlin Dependency Injection - using erased functions by default'
+
+

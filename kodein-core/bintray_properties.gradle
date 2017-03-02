@@ -1,0 +1,2 @@
+if(!project.hasProperty('BINTRAY_PACKAGE')) project.ext.BINTRAY_PACKAGE = 'kodein-core'
+if(!project.hasProperty('DESCRIPTION')) project.ext.DESCRIPTION = 'Kotlin dependency injection core'
