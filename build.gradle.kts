@@ -3,6 +3,6 @@ plugins {
 }
 
 allprojects {
-    group = "org.kodein.di"
-    version = "7.5.0"
+    group = "com.eygraber.kodein.di"
+    version = "7.5.1-SNAPSHOT"
 }
